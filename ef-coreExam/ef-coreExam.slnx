@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Instagram.Core/Instagram.Core.csproj" />
+  <Project Path="Instagram.Infrastructure/Instagram.Infrastructure.csproj" />
+  <Project Path="Instagram/Instagram.csproj" />
+</Solution>
